@@ -1,5 +1,5 @@
  <!-- Contact Information -->
- ![passport](https://res.cloudinary.com/dzfz6iwon/image/upload/v1575462199/20190315-115303_p2_lk8de9.jpg "10px/10px")
+ ![passport](https://res.cloudinary.com/dzfz6iwon/image/upload/v1575465219/20190315-115303_p2_loawze.jpg)
 # **LILIAN AJIRIOGHENE OVRAWAH** B.Eng.
 23, Taiwo street, Ojota, Lagos.  
 Telephone: +234 806 237 6255  
@@ -8,7 +8,7 @@ https://www.linkedin.com/in/lilian-ajirioghene-ovrawah-b89091104/   https://www.
 
 ---
 <!-- Career Objective -->
-## Career Objectives:
+## Career Objectives
 
 A Self-motivated Front-End Web Engineer seeking opportunity with a creative work environment to enhance expertise in web development and application design. Acquire more software development skills through team work and collaborations, creating solutions that directly target humanity problems.
 
@@ -45,7 +45,7 @@ Federal University of Petroleum Resources Effurun Delta State.
 
 **Position:**	Creative Assistant
 
-**Date:**	July 2019 – Present 
+**Date:**	July 2019 – November 2019 
 
 **Job Responsibilities:**	Assist in the design of web pages, web banners, brochures, logos, books, magazine covers, annual reports, advertisements, and other communication materials and also do product designs.
 
@@ -77,7 +77,7 @@ As a team member, I was actively involved in building the Front-End of the proje
 
 ---
 <!-- Projects Handled -->
-## **PROJECTS HANDLED:**
+## **PROJECTS HANDLED**
 
 GitHub: https://github.com/hayjay-coder
 
@@ -103,7 +103,7 @@ Utilized: HTML, CSS, JavaScript, Sass.
 
 ---
 <!-- Certifications -->
-## **CERTIFICATIONS:**
+## **CERTIFICATIONS**
 - Project Management Professional (PMP) by Prime Safety Institute
 
 - Certificate of Completion: Shehacks Africa, WAAW Foundation
@@ -137,11 +137,11 @@ During my National youth Service Corps (NYSC), I served as the sub-zonal Liaisin
 
 ---
 <!-- Hobbies -->
-**HOBBIES:**	Playing indoor games, hanging out with friends, meeting people and Travelling.
+**HOBBIES**	Playing indoor games, hanging out with friends, meeting people and Travelling.
 
  ---
  <!-- Referees -->
-**REFEREES:**<br>
+**REFEREES**<br>
 Engr. David Okene<br>
 Senior Lecturer,<br>
 Electronic Electrical Engineering Department, Federal University of Petroleum Resources Effurun,Delta State.<br>
