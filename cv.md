@@ -11,7 +11,7 @@ https://www.github.com/hayjay-coder
 <!-- Career Objective -->
 ## Career Objectives
 
-A Self-motivated Front-End Web Engineer seeking opportunity with a creative work environment to enhance expertise in web development and application design. Acquire more software development skills through team work and collaborations, creating solutions that directly target humanity problems.
+*A Self-motivated Front-End Web Engineer seeking opportunity with a creative work environment to enhance expertise in web development and application design. Acquire more software development skills through team work and collaborations, creating solutions that directly target humanity problems.*
 
 ---
 <!-- Stack -->
