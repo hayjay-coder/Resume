@@ -1,6 +1,6 @@
  <!-- Contact Information -->
  ![passport](https://res.cloudinary.com/dzfz6iwon/image/upload/v1575465219/20190315-115303_p2_loawze.jpg)
-# **LILIAN AJIRIOGHENE OVRAWAH** B.Eng.
+# **LILIAN AJIRIOGHENE OVRAWAH** 
 23, Taiwo street, Ojota, Lagos.  
 Telephone: +234 806 237 6255  
 E-mail/website: lilianovrawah@gmail.com  
@@ -15,13 +15,13 @@ A Self-motivated Front-End Web Engineer seeking opportunity with a creative work
 
 ---
 <!-- Stack -->
-## **Technology Stack:** HTML5, CSS3, JavaScript, Bootstrap, React
+## **Technology Stack:** HTML5, CSS, JavaScript, Bootstrap, React
 ---
 <!-- Educational Background -->
-## **EDUCATIONAL BACKGROUND:**
+## **EDUCATIONAL BACKGROUND**
 
 ### **Academic Qualifications and institutions attended with dates:**
-Sep 2019 – Nov 2019	
+**Sep 2019 – Nov 2019**	
 
 Front-End Web Development, Frontend Masters
 
@@ -29,11 +29,11 @@ Front-End Web Development, Frontend Masters
 
 **Programming Coursework:** HTML syntax, CSS syntax, Version Control with Git and GitHub ,JavaScript: Data Types and Variables, Conditionals, Loops, Arrays, Objects, JavaScript & The DOM, Web Accessibility, Object-Oriented JavaScript, JavaScript Tools and Testing, Front-End Applications, Client Server communication jQuery. Exercises: Mock- up to Website.
 
-Mar 2012 - Aug 2017	
+**Mar 2011 - Aug 2017**	
 
 Federal University of Petroleum Resources Effurun Delta State. 
 
-**Certificate:** BSc Electronic and Electrical Engineering (2.1 Honours) 
+**Certificate:** B.Eng. Electronic and Electrical Engineering (2.1 Honours) 
 
 **Programming/Software Coursework:** Mechatronics, Robotic and Embedded Systems, Digital Modelling with Arduino, Application Development with C and C++, Electronic Design Automation and Circuit Simulation using Proteus.
 
@@ -82,7 +82,7 @@ As a team member, I was actively involved in building the Front-End of the proje
 
 GitHub: https://github.com/hayjay-coder
 
-- VHospital (https://hayjay-coder.github.io/vHospital/ Worked on a Shehacks Africa Boot camp project called VHospital - an online app where you book an appointment with a doctor to get access to quick healthcare services in any healthcare facility of your choice. Utilized: HTML5, CSS, JavaScript, Bootstrap
+- VHospital (https://hayjay-coder.github.io/vHospital/) Worked on a Shehacks Africa Boot camp project called VHospital - an online app where you book an appointment with a doctor to get access to quick healthcare services in any healthcare facility of your choice. Utilized: HTML5, CSS, JavaScript, Bootstrap
 
 - HNGi7 (https://hngi7.hng.tech/)
 Converted a static webpage to a mobile-ready web application 
