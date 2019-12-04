@@ -81,7 +81,7 @@ As a team member, I was actively involved in building the Front-End of the proje
 
 GitHub: https://github.com/hayjay-coder
 
-- VHospital (https://hayjay-coder.github.io/vHospital/ Worked on a Shehacks Africa Boot camp project called VHospital - an online app where you book an appointment with a doctor to get access to quick healthcare services in any healthcare facility of your choice. Utilized: HTML5, CSS3, JavaScript, Bootstrap
+- VHospital (https://hayjay-coder.github.io/vHospital/ Worked on a Shehacks Africa Boot camp project called VHospital - an online app where you book an appointment with a doctor to get access to quick healthcare services in any healthcare facility of your choice. Utilized: HTML5, CSS, JavaScript, Bootstrap
 
 - HNGi7 (https://hngi7.hng.tech/)
 Converted a static webpage to a mobile-ready web application 
@@ -104,11 +104,10 @@ Utilized: HTML, CSS, JavaScript, Sass.
 ---
 <!-- Certifications -->
 ## **CERTIFICATIONS**
-- Project Management Professional (PMP) by Prime Safety Institute
-
-- Certificate of Completion: Shehacks Africa, WAAW Foundation
 
 - Certificate of Completion: HNG Internship, Hotels.ng
+- Certificate of Completion: Shehacks Africa, WAAW Foundation
+- Project Management Professional (PMP) by Prime Safety Institute
 
 ---
 <!-- Skills -->
