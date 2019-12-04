@@ -4,7 +4,8 @@
 23, Taiwo street, Ojota, Lagos.  
 Telephone: +234 806 237 6255  
 E-mail/website: lilianovrawah@gmail.com  
-https://www.linkedin.com/in/lilian-ajirioghene-ovrawah-b89091104/   https://www.github.com/hayjay-coder
+https://www.linkedin.com/in/lilian-ajirioghene-ovrawah-b89091104/   
+https://www.github.com/hayjay-coder
 
 ---
 <!-- Career Objective -->
